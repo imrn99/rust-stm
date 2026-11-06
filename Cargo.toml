@@ -27,7 +27,7 @@ sserp-stm = { version = "0.7.1", path = "./sserp-stm" }
 
 # external
 cfg-if = "1.0.4"
-parking_lot = { version = "0.12.3", default-features = false }
+parking_lot = { version = "0.13.0", default-features = false }
 rustc-hash = "2.1.1"
 rustversion = "1.0.18"
 thiserror = "2.0.11"
